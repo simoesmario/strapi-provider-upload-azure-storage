@@ -1,0 +1,31 @@
+{
+  "name": "@simoesmario/strapi-provider-upload-azure-storage",
+  "version": "1.0.0",
+  "description": "Azure Blob Storage provider for Strapi v5 upload plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "strapi",
+    "upload",
+    "provider",
+    "azure",
+    "blob",
+    "storage",
+    "strapi-provider"
+  ],
+  "author": "Mario Maio Simoes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoesmario/strapi-provider-upload-azure-storage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simoesmario/strapi-provider-upload-azure-storage/issues"
+  },
+  "homepage": "https://github.com/simoesmario/strapi-provider-upload-azure-storage",
+  "peerDependencies": {
+    "@azure/storage-blob": "^12.27.0"
+  }
+}
