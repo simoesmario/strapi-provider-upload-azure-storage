@@ -1,6 +1,6 @@
 {
   "name": "@simoesmario/strapi-provider-upload-azure-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Blob Storage provider for Strapi v5 upload plugin",
   "main": "index.js",
   "scripts": {
