@@ -1,6 +1,6 @@
 # @simoesmario/strapi-provider-upload-azure-storage
 
-Custom Azure Blob Storage upload provider for Strapi, created by @simoesmario
+Custom Azure Blob Storage upload provider for Strapi v5, created by @simoesmario
 
 
 ## Installation
